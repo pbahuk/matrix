@@ -1,0 +1,12 @@
+.sample {
+  margin: 10px;
+}
+
+.heading {
+  color: ~colors.blue_5;
+  font-size: ~fontSize.enlarged;
+  font-weight: ~fontWeight.bold;
+}
+
+.para {
+}
